@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Leo Pérez</h1>
 
-<!--
-**LeoUPerez/LeoUPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Take a look to my portfolio:</h3>
+<a href="" target="_blank" rel="noreferrer"><p align="center">Work in Progress</p></a> 
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</p>
+<p align="center">
+
+</p>
+
+
+<h3 align="center">Technologies and tools:</h3>
+<p align="center">
+HTML, CSS, Tailwind CSS, Sass, JavaScript, TypeScript <br>
+React, Next.js, React Native <br>
+Node.js, Express.js <br>
+REST API, GraphQL <br>
+Supabase, Firebase, Firestore, PostgreSQL, Prisma <br>
+Docker, RabbitMQ, Nginx, GIT <br>
+Jest
+  </p>
+<br>
