@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Leo Pérez</h1>
+<h1 align="center">Hi, I'm Leo Pérez</h1>
 
-<h3 align="center">Take a look to my portfolio:</h3>
+<h3 align="center">Feel free to check out my portfolio:</h3>
 <a href="" target="_blank" rel="noreferrer"><p align="center">Work in Progress</p></a> 
 
 <p align="center">
